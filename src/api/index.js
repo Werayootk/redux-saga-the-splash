@@ -21,4 +21,4 @@ const fetchImageStats = async id => {
     return data;
 };
 
-export { fetchImages,fetchImageStats };
+export { fetchImages, fetchImageStats };
